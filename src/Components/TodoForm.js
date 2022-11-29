@@ -41,7 +41,7 @@ const TodoForm = (props) => {
           <>
             {" "}
             <input
-              type="text"
+              type="text" 
               placeholder="Add a todo"
               value={input}
               name="text"
